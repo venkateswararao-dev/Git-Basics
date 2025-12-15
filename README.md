@@ -2,7 +2,6 @@
 ##                          HYDERABAD, INDIA
 ####            +91 9347717836 [XYZ@gmail.coml](venky45678v@gmail.com) [Github](https://github.com/venkateswararao-dev) [Linkedin.com](https://www.linkedin.com/feed/)
 
-
 ### TECHNICAL SKILLS
 ----------------------------------------------------------------------------------------------------------------------------------
 Programming Languages: C, Java, Python
