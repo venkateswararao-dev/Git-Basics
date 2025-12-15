@@ -46,4 +46,4 @@ Bachelor of Technology - Computer Science and Engineering                       
 • Ranked 375 out of 18,000+ participants in the Naukri Coding Contest. 
 • Solved 400+ DSA Questions on Leetcode. 
 • Achieved 1049 rating on CodeChef. 
-• Achieved Web Design certification at freeCodeCamp
+• Achieved Web Design certification at freeCodeCamp.
